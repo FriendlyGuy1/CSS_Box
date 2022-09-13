@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=Ms+Madi&family=Noto+Sans+Buhid&display=swap');
+* {
+    margin: 3rem;
+}
+div {
+    border: solid black;
+}
+.Combo {
+    font-family: 'Combo', cursive;
+}
+.Madi {
+    font-family: 'Ms Madi', cursive;
+}
+.Buhid {
+    font-family: 'Noto Sans Buhid', sans-serif;
+}
+#blue-shadow {
+    box-shadow: 10px 5px 5px blue;
+}
+#red-shadow {
+    box-shadow: 10px 5px 5px red;
+}
+#yellow-shadow {
+    box-shadow: 10px 5px 5px yellow;
+}
+p {
+    padding: 0.25rem;
+    text-align: center;
+}
